@@ -1,0 +1,5 @@
+python-telegram-bot
+pymongo
+flask
+python-dotenv
+aiohttp
